@@ -1,5 +1,5 @@
 # Machine-Learning
-What I learnd at Machine Learning course with 3 datasets and analysis.
+Excited 100-day journey of Machine Learning with 3 datasets and analysis.
 
 calss.ipynb dataset: in colab /content/sample_data/california_housing_train.csv
 
